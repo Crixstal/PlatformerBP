@@ -1,4 +1,4 @@
-# **Platformer 3D by Manon MÉHALIN**
+# **Platformer 3D**
 
 ## **Summary**
 - [Description](##Description)
@@ -16,9 +16,7 @@ The project objective's is to develop a 3D platformer coded in blueprint game us
 
 ## **Informations**
 
-In the zip file "GP2_MEHALIN_M" on sirius you can find :
-- the README file
-- the bin folder which contains "Platformer.exe"
+The build can be found under the GOLD release.
 
 <br>
 
