@@ -1,16 +1,9 @@
 # **Platformer 3D**
 
 ## **Summary**
-- [Description](#Description)
 - [Informations](#Informations)
 - [Commands](#Commands)
 - [References](#References)
-
-<br>
-
-## **Description**
-
-The project objective's is to develop a 3D platformer coded in blueprint game using Unreal Engine.
 
 <br>
 
